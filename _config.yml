@@ -4,11 +4,11 @@
 # =====================================================
 
 # ----- Identity (shown in SEO + browser tab) -----
-title: Your Name Here                              # <- your name
-author: Your Name Here                             # <- your name (shown as post byline)
+title: Sharon Iweha                             # <- your name
+author: Sharon Iweha                             # <- your name (shown as post byline)
 description: My CEAMLS SAIRI Summer Research Site  # <- short site tagline
-email:                                             # <- (optional) contact email for SEO
-url: https://your-username.github.io               # <- your final site URL (canonical SEO links)
+email: sharoniweha01@gmail.com                                             # <- (optional) contact email for SEO
+url: https://sharoniweha.ceamls26.github.io              # <- your final site URL (canonical SEO links)
 lang: en-US
 
 # ----- Branding (program-wide; rarely changes) -----
