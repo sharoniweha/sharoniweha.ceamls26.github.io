@@ -1,6 +1,6 @@
 ---
 layout: project
-title: BioPersona: Physiologically Grounded Patient Simulation for Safety Evaluation of Clinical Dialogue Systems
+title: BioPersona Physiologically Grounded Patient Simulation for Safety Evaluation of Clinical Dialogue Systems
 permalink: /about-my-project.html
 
 subtitle: 
