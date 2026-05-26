@@ -11,29 +11,21 @@ about:
   bio: |
     Hi! I'm Sharon Iweha, an Information Systems student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
-
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    I have a strong interest in artificial intelligence. I am actively engaged on campus and bring hands on experience in AI development through my work at Handshake AI, where I have gained practical knowledge in training AI systems. I am passionate about exploring the intersection of technology and intelligent systems, and I look forward to deepening my expertise through this research program.
+    
+    Outside of class, you'll find me doing photoshoots, decorating and planning events, or hanging out with my friends and family. To relax, I like to watch movies, TV shows, anime, or take walks.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
+    - icon: 📸
+      title: Photography
+      description: I capture people and the world with my camera through my perspective. You can see some of my work on Instagram @eyeoftheerose!
+    - icon: 🎉
+      title: Event Decor
       description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+   
 
   gallery:
     - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+      caption:
+
 ---
