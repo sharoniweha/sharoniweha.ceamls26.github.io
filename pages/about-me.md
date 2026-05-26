@@ -4,12 +4,12 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
-  image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  name: Sharon Iweha
+  role: Senior, Information Systems
+  image: /assets/images/IMG_3420.jpeg
+  linkedin: https://www.linkedin.com/in/sharon-iweha-2073b6317/
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Sharon Iweha, an Information Systems student in the CEAMLS SAIRI Summer Research program.
 
     My research interests sit at the intersection of human-computer interaction and applied
     machine learning. I'm especially curious about how everyday tools can be made more
