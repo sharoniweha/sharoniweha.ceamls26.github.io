@@ -25,7 +25,7 @@ about:
    
 
   gallery:
-    - image: /assets/images/gallery-1.svg
+    - image: /assets/images/photog.JPG
       
 
 ---
