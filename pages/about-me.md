@@ -21,11 +21,11 @@ about:
       description: I capture people and the world with my camera through my perspective. You can see some of my work on Instagram @eyeoftheerose!
     - icon: 🎉
       title: Event Decor
-      description: Weekend trail rides are how I reset.
+      description: Putting my creative touch into making people's events enjoyable is what I love to do in my spare time.
    
 
   gallery:
     - image: /assets/images/gallery-1.svg
-      caption:
+      
 
 ---
